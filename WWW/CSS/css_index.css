@@ -1,0 +1,31 @@
+table {
+  font-size: inherit;
+  /*color: white;*/
+  text-align: left;
+  padding-top: 20%;
+  table-layout: fixed;
+  width: 100%;
+
+}
+
+
+th,
+tr {
+  padding-left: 1%;
+  /*  background-image: linear-gradient(to right, #3A3838 0%, #C2B9B9 100%);*/
+  background-image: linear-gradient(to right, #B3B2B1 0%, #eae5e4 100%)
+}
+
+.icones {
+  border-radius: 50%;
+  width: 40px;
+  position: relative;
+  top: 10px;
+  padding-right: 10px;
+}
+
+thead {
+  text-align: center;
+}
+
+
